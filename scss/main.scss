@@ -6,9 +6,7 @@ $style:50%;
     margin: 2%;
   }
   
-  .flex {
-    display: flex;
-  }
+  @import "flex";
   
   .block {
     display: block;
