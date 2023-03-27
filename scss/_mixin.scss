@@ -1,0 +1,8 @@
+@mixin contenedor_dia{
+    margin-bottom:5px; ;
+    border-bottom: 1px solid black;
+}
+
+.div_dia{
+    @include contenedor_dia;
+}
